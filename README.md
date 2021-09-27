@@ -24,7 +24,7 @@ The results of the ride-share data revealed the following underlying trends.
 
 ## __Summary__
 
-![Line graph of total fares by city type](https://github.com/ChristopheGarcia1/PyBer_Analysis/blob/main/analysis/Fig8.png)
+![Line graph of total fares by city type](https://github.com/ChristopheGarcia1/PyBer_Analysis/blob/main/analysis/Total_fares_linegraph.png)
 
 1. With Urban cities having more drivers than rides in the span of 4 month, it is recommended that certian incentives are given to riders of higher populated areas to utilize the excess of drivers that are not given rides.
 
